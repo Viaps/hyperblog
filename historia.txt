@@ -5,7 +5,8 @@ Created on Sat Oct 31 14:25:57 2020
 @author: VICTORADOLFOPINTOSAN
 """
 
-Victor tiene 27 años 
-y Nacio en Colombia
+Victor tiene 26 años 
+y Nacio en Colombia 
+viviendo en Bogota
 
 Hoy hablaremos de su historia
