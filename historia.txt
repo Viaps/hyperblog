@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 31 14:25:57 2020
+
+@author: VICTORADOLFOPINTOSAN
+"""
+
+Victor tiene 27 años 
+y Nacio en Colombia
+
+Hoy hablaremos de su historia
